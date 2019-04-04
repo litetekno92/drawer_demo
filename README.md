@@ -6,3 +6,4 @@ A Flutter app that demonstrates how to implement the good old NavigationDrawer p
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
+# drawer_demo
